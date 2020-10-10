@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 **Faddal Ibrahim**
 ---
 I build resilient UIs and robust systems for the web and mobile
@@ -20,3 +20,4 @@ I build resilient UIs and robust systems for the web and mobile
 I write technical articles on [dev](dev.to/faddalibrahim"dev.to/faddalibrahim")
 
 I share my experiences and self-help tips on [my blog](blog.faddalibrahim.com"blog.faddalibrahim.com")
+-->
