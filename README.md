@@ -1,4 +1,4 @@
-### Hi there, my name is 👋
+### Hi there, my name is
 <!--
 **faddalibrahim/faddalibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ---
 I build resilient UIs and robust systems for the web and mobile
 
-I write techinical at
-[dev](dev.to/faddalibrahim)
+I write technical articles on [dev](dev.to/faddalibrahim"dev.to/faddalibrahim")
 
-I share my experiences and self-help tips
-[my blog](blog.faddalibrahim.com)
+I share my experiences and self-help tips on [my blog](blog.faddalibrahim.com"blog.faddalibrahim.com")
