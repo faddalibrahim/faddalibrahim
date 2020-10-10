@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*Faddal Ibrahim*
+---
+I build resilient UIs and robust systems for the web and mobile
