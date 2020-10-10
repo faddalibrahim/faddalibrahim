@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Faddal Ibrahim*
+**Faddal Ibrahim**
 ---
 I build resilient UIs and robust systems for the web and mobile
+
+I write techinical at
+[dev](dev.to/faddalibrahim)
+
+I share my experiences and self-help tips
+[my blog](blog.faddalibrahim.com)
