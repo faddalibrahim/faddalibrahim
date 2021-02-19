@@ -1,4 +1,4 @@
-### Hi there, my name is
+### Hi there, my name is Faddal Ibrahim. I build stuff for the web. I am skilled in html, css, javascript (React), and php.
 <!--
 **faddalibrahim/faddalibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +21,13 @@ I write technical articles on [dev](dev.to/faddalibrahim"dev.to/faddalibrahim")
 
 I share my experiences and self-help tips on [my blog](blog.faddalibrahim.com"blog.faddalibrahim.com")
 -->
+
+**Some stuff I have built so far** :
+
+
+Bavis Meacon (A basic typing game) : https://bavismeacon.herokuapp.com/
+
+Python Portal (A quiz app on python) : https://python-portal.herokuapp.com/
+
+**Things I am currently building : **
+A personal finance tracker in React : https://moneybagg.netlify.app/dashboard
