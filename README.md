@@ -29,5 +29,5 @@ Bavis Meacon (A basic typing game) : https://bavismeacon.herokuapp.com/
 
 Python Portal (A quiz app on python) : https://python-portal.herokuapp.com/
 
-**Things I am currently building : **
+**Things I am currently building** :
 A personal finance tracker in React : https://moneybagg.netlify.app/dashboard
