@@ -32,4 +32,4 @@ Python Portal (A quiz app on python) : https://python-portal.herokuapp.com/
 **Things I am currently building** :
 
 
-Money Bagg (A personal finance tracker in React) : https://moneybagg.netlify.app/dashboard
+Money Bagg (A personal finance tracker in React) : https://moneybagg.netlify.app/
