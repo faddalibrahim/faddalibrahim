@@ -49,12 +49,6 @@ I'm a Software Engineer who builds resilient UI/UX and robust fullstack applicat
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faddalibrahim&theme=react-dark)
-
-
-
-
-
 
 <!--
 **faddalibrahim/faddalibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
