@@ -19,12 +19,11 @@ I'm a Software Engineer who builds resilient UI/UX and robust fullstack applicat
 <br />
 
 <div style="display:flex;justify-content: space-between">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage&hide_border=true" width="48%"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="48%"/>
 
-![](https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true)
-
-</div>
+</div>  
 
 ## PROGRAMMING LANGUAGES
 
