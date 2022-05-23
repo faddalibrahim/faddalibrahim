@@ -1,9 +1,8 @@
 > ## Hello, I'm [Faddal Ibrahim!](https://blog.faddalibrahim.com) 🐱‍💻
 I'm a software engineer who builds resilient ui/ux and robust fullstack applications for the web and mobile
 
-<a href="https://github.com/faddalibrahim">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" />
-</a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
 ⚡ I'm currently working on [auto-cv](https://github.com/faddalibrahim/auto-cv-frontend)  
 🔭 I’m currently learning **Google Cloud**  
