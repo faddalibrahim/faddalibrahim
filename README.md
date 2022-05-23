@@ -5,14 +5,14 @@ I'm a software engineer who builds resilient ui/ux and robust fullstack applicat
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
 ⚡ I'm currently working on [auto-cv](https://github.com/faddalibrahim/auto-cv-frontend)  
-🔭 I’m currently learning **Google Cloud**  
+🔭 Cloud DevOps is what I'm learning now  
 🌱 Find all about me on my [website](https://faddalibrahim.com)  
-👯 I’m looking to collaborate on any cool web project    
+👯 Would love to collaborate on any cool web project    
 💬 Apart from tech, we can talk about movies and football  
-✏️ I write technical articles at [dev](https://dev.to/faddalibrahim)  
+✏️ Read my technical articles on [dev](https://dev.to/faddalibrahim)  
 🖊️ I write self-development articles on my [blog](https://blog.faddalibrahim.com)  
 📫 Reach me on [linkedin](https://www.linkedin.com/in/faddalibrahim/) and [twitter](https://twitter.com/FaddalIbrahim)   
-🎉 I love anime and memes  
+🎉 Math, Anime and Coding is my love triangle
 
 <br />
 <br />
