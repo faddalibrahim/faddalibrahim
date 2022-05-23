@@ -2,7 +2,7 @@
 I'm a Software Engineer who builds resilient UI/UX and robust fullstack applications for the web and mobile
 
 <a href="https://github.com/faddalibrahim">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&count_private=true&langs_count=10" />
 </a>
 
 ⚡ I'm currently working on [auto-cv](https://github.com/faddalibrahim/auto-cv-frontend)  
@@ -18,9 +18,13 @@ I'm a Software Engineer who builds resilient UI/UX and robust fullstack applicat
 <br />
 <br />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=dracula)
+<div style="display:flex;justify-content: space-between">
 
-![](https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=dracula&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage)
+
+![](https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=ayu-mirage&count_private=true)
+
+</div>
 
 ## PROGRAMMING LANGUAGES
 
