@@ -1,4 +1,4 @@
-## Hello, I'm [Faddal Ibrahim!](https://blog.faddalibrahim.com) 😎 
+> ## Hello, I'm [Faddal Ibrahim!](https://blog.faddalibrahim.com) 🐱‍💻
 I'm a Software Engineer who builds resilient UI/UX and robust fullstack applications for the web and mobile
 
 <a href="https://github.com/faddalibrahim">
@@ -47,7 +47,7 @@ I'm a Software Engineer who builds resilient UI/UX and robust fullstack applicat
 
 
 
-
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faddalibrahim&theme=react-dark) -->
 
 
 <!--
