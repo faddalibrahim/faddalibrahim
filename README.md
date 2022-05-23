@@ -1,5 +1,5 @@
 > ## Hello, I'm [Faddal Ibrahim!](https://blog.faddalibrahim.com) 🐱‍💻
-I'm a Software Engineer who builds resilient UI/UX and robust fullstack applications for the web and mobile
+I'm a `software engineer` who builds resilient ui/ux and robust fullstack applications for the web and mobile
 
 <a href="https://github.com/faddalibrahim">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" />
