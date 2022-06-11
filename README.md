@@ -9,8 +9,8 @@ I'm a software engineer who builds resilient ui/ux and robust fullstack applicat
 🌱 Find all about me on my [website](https://faddalibrahim.com)  
 👯 Would love to collaborate on any cool web project    
 💬 Apart from tech, we can talk about movies and football  
-✏️ Read my technical articles on [dev](https://dev.to/faddalibrahim)  
-🖊️ I write self-development articles on my [blog](https://blog.faddalibrahim.com)  
+✏️ I author technical content on [dev](https://dev.to/faddalibrahim) and [sweetcode](https://sweetcode.io/author/fibrahim/)  
+🖊️ Read my personal experiences and self-development tips on my [blog](https://blog.faddalibrahim.com)  
 📫 Reach me on [linkedin](https://www.linkedin.com/in/faddalibrahim/) and [twitter](https://twitter.com/FaddalIbrahim)   
 🎉 Math, Anime and Coding is my love triangle
 
