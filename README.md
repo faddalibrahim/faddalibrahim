@@ -4,7 +4,7 @@ I'm a **Technical Writer** and **Software Engineer** who builds resilient ui/ux 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
-⚡ I'm currently working on [auto-cv](https://github.com/faddalibrahim/auto-cv-frontend)  
+⚡ I'm currently working on [ashesi hackers league](https://github.com/gdscashesi/ashesi-hackers-league)  
 🔭 Cloud DevOps is what I'm learning now  
 🌱 Find all about me on my [website](https://faddalibrahim.com)  
 👯 Would love to collaborate on any cool web project    
