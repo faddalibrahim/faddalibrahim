@@ -1,4 +1,4 @@
-> ## Hello, I'm Faddal Ibrahim 😎
+> ## Hi, I'm Faddal Ibrahim 😎
 I'm a **Technical Writer** and **Software Engineer** who builds resilient ui/ux and robust fullstack applications for the web and mobile
 
 
